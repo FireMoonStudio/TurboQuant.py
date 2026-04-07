@@ -12,12 +12,11 @@ if os.path.exists("README.md"):
 
 setup(
     name="TurboQuantPython",
-    version="0.1.0",
+    version="0.1.2",
     author="FireMoon Studio",
     description="A library for Near-optimal Vector Quantization based on arXiv:2504.19874",
     long_description=long_description,
-    long_description_content_type="text/markdown",
-    url="", 
+    long_description_content_type="text/markdown", 
     packages=find_packages(),
     install_requires=[
         "numpy>=1.18.0", 
