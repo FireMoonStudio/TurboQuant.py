@@ -11,7 +11,7 @@ if os.path.exists("README.md"):
         long_description = f.read()
 
 setup(
-    name="turboquantpy",
+    name="trb-quant",
     version="0.1.2",
     author="FireMoon Studio",
     description="A library for Near-optimal Vector Quantization based on arXiv:2504.19874",
