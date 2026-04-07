@@ -12,7 +12,7 @@ if os.path.exists("README.md"):
 
 setup(
     name="trb-quant",
-    version="0.1.3",
+    version="0.1.5",
     author="FireMoon Studio",
     description="A library for Near-optimal Vector Quantization based on arXiv:2504.19874",
     long_description=long_description,
