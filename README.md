@@ -21,14 +21,6 @@
 
 ## 🛠 Installation
 
-To install the library locally in editable mode:
-
-```bash
-git clone [https://github.com/yourusername/turboquant.git](https://github.com/yourusername/turboquant.git)
-cd turboquant
-pip install -e .
-💡 Usage ExamplePythonimport numpy as np
-from turboquant import TurboQuant
 
 # 1. Initialize TurboQuant
 tq = TurboQuant(use_residual=True)
